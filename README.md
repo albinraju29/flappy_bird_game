@@ -1,6 +1,6 @@
 # **Flappy Bird Game - Pygame & HTML5 Versions**  
 
-![Flappy Bird Game](https://img.itch.zone/aW1nLzEyODQzNzgucG5n/original/BrHZ%2Fn.png)  
+![Flappy Bird Game](https://albinraju29.github.io/flappy_bird_game/)  
 
 A **cross-platform** Flappy Bird game available in **both Pygame (Python) and HTML5 (JavaScript)** versions.  
 
