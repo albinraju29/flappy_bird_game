@@ -107,7 +107,7 @@ This project is under the **[MIT License](LICENSE)**.
 ---
 
 ### **🎮 Ready to Play?**  
-👉 **[Try the HTML5 Version Now!](#)**  
+👉 **[Try the HTML5 Version Now!](https://albinraju29.github.io/flappy_bird_game/)**  
 👉 **[Download Pygame Version](#)**  
 
 ---
